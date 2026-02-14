@@ -1,8 +1,8 @@
 <script setup>
 import prodOne from '@/assets/images/prod-one.png'
 import prodTwo from '@/assets/images/prod-two.png'
-import prodThree from '@/assets/images/prod-Three.png'
-import prodFour from '@/assets/images/prod-Four.png'
+import prodThree from '@/assets/images/prod-three.png'
+import prodFour from '@/assets/images/prod-four.png'
 
 import bgTab from '@/assets/images/bg-tab.png'
 
