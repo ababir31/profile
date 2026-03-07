@@ -9,7 +9,7 @@ import bgTab from '@/assets/images/bg-tab.png'
 import bgOne from '@/assets/images/bgone.png'
 import bgTwo from '@/assets/images/bgtwo.png'
 import bgThree from '@/assets/images/bgthree.png'
-import bgFour from '@/assets/images/bgFour.png'
+import bgFour from '@/assets/images/bgfour.png'
 
 import { onMounted, ref } from 'vue'
 import gsap from 'gsap'
